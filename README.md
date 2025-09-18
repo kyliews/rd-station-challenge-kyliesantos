@@ -2,10 +2,6 @@
 
 Este projeto foi desenvolvido como parte do processo seletivo para Pessoa Desenvolvedora na RD Station. A aplicação consiste em um sistema de recomendação de produtos que, com base nas preferências e funcionalidades selecionadas pelo usuário, sugere as soluções mais adequadas do portfólio da RD Station.
 
-### Resultado Final
-
-![Resultado da Aplicação]
-
 ###  Tecnologias Utilizadas
 
 * **React.js:** Biblioteca principal para a construção da interface.
